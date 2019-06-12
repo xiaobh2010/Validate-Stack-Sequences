@@ -10,3 +10,6 @@ Example 2:
 Input: pushed = [1,2,3,4,5], popped = [4,3,5,1,2] 
 Output: false 
 Explanation: 1 cannot be popped before 2.
+
+以上程序代码是在leecode上执行实现的，直接用python编译器编译程序绝壁报错
+
